@@ -1,0 +1,15 @@
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\bin\Debug\GUICW.exe
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\bin\Debug\GUICW.exe.config
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.csproj.AssemblyReference.cache
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formdelete.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formlogin.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formhome.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formadd.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formorder.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.formupdate.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.Properties.Resources.resources
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.csproj.GenerateResource.cache
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.csproj.CoreCompileInputs.cache
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.exe
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\obj\Debug\GUICW.pdb
+C:\Users\Delluser\Desktop\GUI\GUI CW\GUICW\GUICW\bin\Debug\GUICW.pdb
